@@ -5,6 +5,8 @@
 ![Issues](https://img.shields.io/github/issues/SHOJIB-80/RUNNER_XD)
 ![Stars](https://img.shields.io/github/stars/SHOJIB-80/RUNNER_XD)
 
+## TO PLAY - https://gd.games/games/4151e61d-cf9f-4cb3-bfc6-23ae802026bc
+
 ## Description
 
 RUNNER_XD is a running and collecting coin game. This project aims to  start a new era.
